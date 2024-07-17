@@ -7,7 +7,7 @@ Simply running the script.sh file as follow:
 ```
 will show a the pattern in which you will need to provide the required lex and yacc files along with the input file.
 <br/><br/>
-But for the ease of implementation the command to insert is shown below:
+But for the ease of implementation the command to provide in the terminal is shown below:
 
 ```
 ./script.sh <file.y> <file.l> <input_file_name.c>
